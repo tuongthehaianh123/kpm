@@ -1,0 +1,16 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+# Lib binary
+go1.18.linux-amd64.tar.gz
+rmr_4.8.0_amd64.deb
+rmr-dev_4.8.0_amd64.deb
